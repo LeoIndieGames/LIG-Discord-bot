@@ -1,0 +1,4 @@
+Trolls Handler:
+>rickastley     --> Summon Rick Astley where the command is sent
+>rickroll member_id    --> Send a rickroll message to someone with the name or id "member_id"
+>google member_id lorem ipsum  --> Ping a member with the name or id "member_id" and give him a link to google "lorem ipsum"

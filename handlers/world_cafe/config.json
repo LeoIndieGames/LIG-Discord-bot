@@ -1,0 +1,17 @@
+{
+    "world_cafe_channel": 951110494046023762,
+    "direct_message_error": "Sorry couldn't post your question or answer",
+
+    "question_command_success": "Successfully wrote your question here:\t",
+    "question_command_fail": "Sorry couldn't post your question",
+
+    "clear_command_start": "Beginning to remove all questions in the world café",
+    "clear_command_success": "Successfully removed all questions in the world café",
+    "clear_command_fail": "Sorry, something went wrong during the deletion of all questions in the world café",
+
+    "remove_command_success": "Question with the id '{}' has been successfully deleted",
+    "remove_command_fail": "Sorry, the question with the id '{}' doesn't exist or something went wrong when trying to delete it.",
+
+    "answer_command_success": "Successfully sent your answer!",
+    "answer_command_fail": "Sorry, the question with the id '{}' doesn't exist or something went wrong when trying to add your answer"
+}

@@ -1,0 +1,25 @@
+{
+    "white_list_channels": [
+        491364089705005086,
+        886665641178837026,
+        886665641178837026,
+        496981976646025216,
+        498184612472684550,
+        853968754975178783,
+        889431593196875827
+    ],
+    "joke_trigger_words": [
+        "joke",
+        "blague",
+        "xd",
+        "ptdr",
+        "mdr",
+        ":rofl:",
+        "joy",
+        "lol"
+    ],
+    "joke_proba": 4,
+
+    "answer_proba": 3,
+    "answers":["Des barres!", ":clown:"]
+}

@@ -1,0 +1,3 @@
+Stream Role Handler:
+>stream     --> Send the stream message
+>stream delete      --> Delete the stream message

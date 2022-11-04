@@ -1,0 +1,2 @@
+Dms:
+>dm receiver1_id;receiver2_id;role_receiver_name lorem ipsum        --> Create a dm request with "lorem ipsum" to all members with the id given in the first parameter and all the members with at least on roles of the given in the first parameter

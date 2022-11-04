@@ -1,0 +1,24 @@
+{
+  "channel_id": 898947623065649173,
+  "message_title": "Grab your roles here!",
+  "message_description": "You juste have to add a reaction to this message",
+  "roles": [
+    ["IIM", "🟠", [255,255,0]],
+    ["ESILV", "🔴", [255,0,0]],
+    ["EMLV", "🔵", [0,0,255]],
+
+    ["A1", "1️⃣"],
+    ["A2", "2️⃣"],
+    ["A3", "3️⃣"],
+    ["A4", "4️⃣"],
+    ["A5", "5️⃣"]
+  ],
+
+  "role_added_message": "Successfully gave you the role '{role}'",
+  "role_added_log": "Gave '{role}' role to '{member}'",
+
+  "role_removed_message": "Successfully removed '{role}' from your roles ^^",
+  "role_removed_log": "Removed '{role}' role from '{member}'",
+
+  "reaction_removed_log": "Removed reaction from '{username}' on the PulvRoles message"
+}

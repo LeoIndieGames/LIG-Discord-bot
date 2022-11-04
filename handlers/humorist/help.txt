@@ -1,0 +1,3 @@
+Jokes:
+>joke       --> Send a random joke in the channel where the command has been sent
+>xd         --> Send a "XD" message setup in the config of the HumorHandler
