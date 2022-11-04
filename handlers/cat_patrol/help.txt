@@ -1,0 +1,3 @@
+Cat Patrol:
+>cat        --> Send a random cat gif in the channel where the command has been sent
+>cat_patrol on|off      --> Enable/Disable the Cat Patrol in the cat channel

@@ -1,0 +1,6 @@
+Purger:
+>purge X    --> Delete the X+1 last messages in the channel where the command has been sent and send a message if succeeding
+>purge_silent X     --> Delete the X+1 last messages int he channel where the command has been sent
+>silent_purge X     --> Same
+>delete     --> Delete the two last messages in the channel where the command has been sent
+>delete message_id    --> Delete the message with the id "message_id"

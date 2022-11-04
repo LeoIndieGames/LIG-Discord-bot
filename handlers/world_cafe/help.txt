@@ -1,0 +1,5 @@
+World Café Handler:
+>question lorem ipsum ?     --> Send a question in the world café channel
+>answer question_id lorem ipsum     --> Answer a question in the world café with the id "question_id"
+>remove_question question_id    --> Remove a question in the world café with the id "question_id"
+>clear_questions    --> Remove all questions in the world café channel

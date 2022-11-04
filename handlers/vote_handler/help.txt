@@ -1,0 +1,7 @@
+Vote Handler:
+>vote create title subject in few words choice1;choice2;choice3    --> Create a vote
+>vote vote_title|vote_id choice     --> Vote for "choice" for the vote with the id "vote_id"
+>vote reveal vote_title|vote_id     --> Reveal the results of the vote with the id "vote_id"
+>vote stop vote_title|vote_id       --> Stop vote the vote with the id "vote_id"
+>vote stop all      --> Stop all votes in progress
+>vote recap     --> Show the results of all finished votes

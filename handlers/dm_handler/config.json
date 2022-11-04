@@ -1,0 +1,8 @@
+{
+  "dm_confirmation_message": "Should I send this message to {receivers} ? yes/no\n{text}",
+
+  "dm_sent_message": "Private message successfully sent!",
+  "dm_sent_log": "{author} sent a private message to {receivers}",
+
+  "dm_cancelled_message": "Private message request cancelled"
+}

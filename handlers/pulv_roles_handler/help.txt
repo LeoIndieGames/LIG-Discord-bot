@@ -1,0 +1,2 @@
+Pulv Roles:
+>clear_pulv_roles       --> Remove all the custom roles in the PulvRoleHandler config from everyone

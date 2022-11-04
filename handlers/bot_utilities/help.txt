@@ -1,0 +1,6 @@
+Bot Utilities:
+>logout     --> Disconnect all bot instances
+>log_roles role_name    --> Answer with the list of all members having the role given in parameter
+>separator  --> Answer with a long line of '-------'
+>help   --> Send help messages of every handlers in the requester dm channel
+>neutral_face   --> Answer with a neutral_face emoji

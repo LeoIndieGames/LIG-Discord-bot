@@ -1,0 +1,12 @@
+{
+  "channel_id": 964276988753891328,
+
+  "temporary_vote_text": "Working on a vote!",
+
+  "vote_ephemeral_message": "You voted for '{choice}'",
+  "vote_fail_ephemeral_message": "Sorry, something went wrong ;( (maybe you already voted)",
+  "vote_log": "Someone voted for the vote '{title}'",
+
+  "vote_stopped_message": "Vote named '{vote_name}' stopped",
+  "vote_all_stopped_message": "All votes have been stopped"
+}
